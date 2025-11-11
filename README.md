@@ -1,3 +1,1 @@
 # fam-labs
-
-hostname
