@@ -11,3 +11,5 @@ Maven: https://maven.apache.org/download.cgi
 Visual Studio Code: https://code.visualstudio.com/download
 
 Git client: https://git-scm.com/install/windows
+
+Podman: https://podman-desktop.io/downloads
